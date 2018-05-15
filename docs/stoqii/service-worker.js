@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox-sw.js");
 
 importScripts(
-  "/stoqii/precache-manifest.5065e0f203a298df6c8cab8d1fc11ad8.js"
+  "/stoqii/precache-manifest.4c560b61972c48aea0d4c26989623d31.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Stoqii."});
