@@ -8,11 +8,11 @@ self.__precacheManifest = [
     "url": "/stoqii/js/manifest.724c6993.js"
   },
   {
-    "revision": "1bbef96526fc2b358989",
-    "url": "/stoqii/js/app.1bbef965.js"
+    "revision": "3784cec37cb722a11381",
+    "url": "/stoqii/js/app.3784cec3.js"
   },
   {
-    "revision": "bc5ee11d4fc3572a88aba81e8eeb6e5b",
+    "revision": "5ac70664fdabe736980d04f18df3f0ac",
     "url": "/stoqii/index.html"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/stoqii/img/arrow_carrot-down.99f6c912.svg"
   },
   {
-    "revision": "1bbef96526fc2b358989",
-    "url": "/stoqii/css/app.9c299d17.css"
+    "revision": "3784cec37cb722a11381",
+    "url": "/stoqii/css/app.7a4ebf9b.css"
   }
 ];
